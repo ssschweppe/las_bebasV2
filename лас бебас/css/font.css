@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'BebasNeue Regular';
+    src: url(../Bebas_Neue/BebasNeue\ Regular.otf);
+}
+@font-face {
+    font-family: 'BebasNeue Bold';
+    src: url(../Bebas_Neue/BebasNeue\ Bold.otf);
+}
+@font-face {
+    font-family: "BebasNeue Book";
+    src: url(../Bebas_Neue/BebasNeue\ Book.otf);
+}
+@font-face {
+    font-family: 'BebasNeue Light';
+    src: url(../Bebas_Neue/BebasNeue\ Light.otf);
+}
+@font-face {
+    font-family: 'BebasNeue Thin';
+    src: url(../Bebas_Neue/BebasNeue\ Thin.otf);
+}

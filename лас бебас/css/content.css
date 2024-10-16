@@ -1,0 +1,378 @@
+html {
+    background: #00234D;
+}
+
+body {
+    width: 1440px;
+    display: block;
+    background-color: #00234D;
+    margin: 0 auto;
+}
+
+.star_1 {
+    position: absolute;
+    margin-left: 114px;
+    margin-top: 114px;
+}
+
+.star_2 {
+    width: 80px;
+    position: absolute;
+    margin-top: 780px;
+    margin-left: 400px;
+}
+
+.star_3 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1150px;
+    width: 100px;
+}
+
+.star_5 {
+    position: absolute;
+    width: 140px;
+    margin-top: 50px;
+    margin-left: 1250px;
+}
+
+.star_4 {
+    width: 105px;
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 300px;
+}
+
+.las-bebas {
+    position: relative;
+    top: 195px;
+    margin: 0 auto;
+
+}
+
+.red_rhomb {
+    margin-left: -120px;
+}
+
+.eye {
+    width: 800px;
+    position: absolute;
+    margin-left: 640px;
+    top: 620px;
+}
+
+.left_col {
+    position: absolute;
+    top: 705px;
+    background: black;
+    width: 255px;
+    height: 900px;
+}
+
+.yc {
+    position: absolute;
+    top: 710px;
+    margin-left: 5px;
+}
+
+.middle_col {
+    position: absolute;
+    top: 1300px;
+    background: black;
+    width: 480px;
+    height: 900px;
+}
+
+.casino_base {
+    position: absolute;
+    top: 1405px;
+    background: black;
+    width: 1440px;
+    height: 800px; 
+}
+
+.author {
+    color: #F0A738;
+    position: absolute;
+    top: 740px;
+    margin-left: 45px;
+    font-family: 'BebasNeue Regular';
+    font-size: 98px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    line-height: 80px;
+    text-align: center;
+    letter-spacing: -30px;
+    text-shadow: 1px 1px 10px #F0A738;
+}
+
+.casino {
+    font-family: 'BebasNeue Bold';
+    font-size: 200px;
+    letter-spacing: 25px;
+    position: absolute;
+    color: #E33424;
+    top: 1525px;
+    text-shadow: 1px 1px 15px #E33424;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.left_hr {
+    width: 385px;
+    border: 20px solid #E33424;
+    position: absolute;
+    top: 1625px;
+}
+
+.center_hr {
+    width: 550px;
+    border: 20px solid #E33424;
+    position: absolute;
+    top: 1625px;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.right_hr {
+    width: 385px;
+    border: 20px solid #E33424;
+    position: absolute;
+    top: 1625px;
+    margin-left: 1015px;
+}
+
+.y_hr {
+    width: 580px;
+    border: 5px solid #F0A738;
+    position: absolute;
+    top: 1625px;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.casino_enter {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 915px;
+}
+
+.open {
+    font-family: 'BebasNeue Regular';
+    font-size: 50px;
+    position: absolute;
+    top: 1908px;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.second_block {
+    display: block;
+    background: #E33424;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.jackpot {
+    display: flex;
+    justify-content: center;
+}
+
+.jackpot p {
+    color: white;
+    font-family: 'BebasNeue Bold';
+    font-size: 160px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    align-items: center;
+    margin: 10px;
+}
+
+.slot_machine {
+    top: 2410px;
+    position: absolute;
+    font-family: 'BebasNeue Regular';
+    font-size: 120px;
+    color: #F0A738;
+    text-shadow: 1px 1px 10px #F0A738;
+    margin: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.win {
+    position: absolute;
+    top: 2690px;
+    color: #E33424;
+    font-family: 'BebasNeue Bold';
+    font-size: 200px;
+    letter-spacing: 60px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 30px;
+}
+
+.ticket {
+    font-family: 'BebasNeue Regular';
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 2830px;
+    margin-left: 555px;
+}
+
+.cash {
+    font-family: 'BebasNeue Regular';
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 2830px;
+    margin-left: 810px;
+}
+
+table {
+    position: absolute;
+    text-align: left;
+    top: 3240px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'BebasNeue Regular';
+    font-size: 100px;
+    color: black;
+    line-height: 115px;
+}
+
+th {
+    padding-right: 140px;
+}
+
+.r {
+    text-align: right;
+    padding-right: 30px;
+}
+
+caption {
+    color: #E33424;
+}
+
+.dollars {
+    display: flex;
+    justify-content: space-between;
+}
+
+.third_block {
+    display: block;
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.osobennosti {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.ruletka {
+    margin-left: -3px;
+}
+
+.fishka1 {
+    position: absolute;
+    margin-top: 80px;
+}
+
+.fishka2 {
+    position: absolute;
+    margin-top: 530px;
+}
+
+.fishki {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 55px 0px 55px;
+}
+
+h1 {
+    font-family: 'BebasNeue Regular';
+    font-size: 128px;
+    color: white;
+}
+
+.fourth_block {
+    display: block;
+    padding: 90px 52px 90px 52px;
+}
+
+.cube1 {
+    margin-left: 128px;
+    margin-bottom: 63px;
+}
+
+.a {
+    top: 5850px;
+    margin-left: 880px;
+    position: absolute;
+    font-family: 'BebasNeue Regular';
+    color: white;
+    font-size: 1100px;
+}
+
+.ahrx {
+    color: #E33424;
+    position: absolute;
+    border: 2px solid #E33424;
+    width: 446px;
+    top: 6365px;
+    margin-left: 890px;
+}
+
+.ahry {
+    color: #E33424;
+    position: absolute;
+    border: 2px solid #E33424;
+    width: 870px;
+    top: 6390px;
+    margin-left: 670px;
+    transform: rotate(90deg);
+}
+
+.assimetric {
+    margin-bottom: 220px;
+}
+
+.cube2 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 80px;
+}
+
+.b {
+    position: absolute;
+    font-family: 'BebasNeue Regular';
+    color: white;
+    font-size: 1100px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+.long {
+    position: absolute;
+    margin-left: 540px;
+    top: 7000px;
+}
+
+.cube3 {
+    margin-left: 500px;
+    margin-top: 20px;
+}
